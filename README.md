@@ -2,7 +2,7 @@
 
 <h3>Circuito com fotoresistor e led, feito em C++</h3>
 <div>
-  <h2><a target="_blank" href="https://www.tinkercad.com/things/e7rEkszpft7-daring-snaget">Link circuito TinkerCad</a></h2>
+  <h2><a href="https://www.tinkercad.com/things/e7rEkszpft7-daring-snaget" target="_blank">Link circuito TinkerCad</a></h2>
   <br>
   <img src="https://github.com/MrSampaio/CircuitoFotoresistor/assets/118141328/e2473332-7cb7-44b8-b492-672974a0f6bd">
   <br>
